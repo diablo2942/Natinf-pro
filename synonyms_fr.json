@@ -1,0 +1,28 @@
+{
+  "alcool": [
+    "alcoolique",
+    "ivresse",
+    "ébriété"
+  ],
+  "vitesse": [
+    "excès",
+    "dépassement"
+  ],
+  "stupéfiants": [
+    "drogue",
+    "cannabis",
+    "cocaïne"
+  ],
+  "permis": [
+    "sans-permis",
+    "conduite sans permis"
+  ],
+  "telephone": [
+    "téléphone",
+    "portable"
+  ],
+  "ceinture": [
+    "ceinture de sécurité",
+    "non-port"
+  ]
+}
